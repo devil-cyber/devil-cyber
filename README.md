@@ -34,7 +34,7 @@
 <br />
 <img align="left" alt="devil-cyber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devil-cyber&show_icons=true&hide_border=true" />
 
-[website]: http://manikant.herokuapp.com/
+[website]: https://devil-cyber.github.io/CodingSpace/
 [twitter]: https://twitter.com/Manikan31004419
 [instagram]:https://www.instagram.com/mani2474695/?hl=en
 [linkedin]: https://www.linkedin.com/in/manikant-kumar-550998192/
