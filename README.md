@@ -1,4 +1,4 @@
- ### Hi there, I'm Manikant Singh [devil-cyber][website] 👋
+ ### Hi there, I'm Manikant Kumar [devil-cyber][website] 👋
 
 ## I'm a Student,Developer, and Data Science enthusiast!
 - 🔭 I’m currently working on Big Data Project
