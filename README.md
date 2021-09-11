@@ -1,7 +1,7 @@
  ### Hi there, I'm Manikant Kumar [devil-cyber][website] 👋
 
-## I'm a Student,Developer, and Data Science enthusiast!
-- 🔭 I’m currently working on Deep Learning project mainly in NLP
+## I'm a Student and Full Stack Developer
+- 🔭 I’m currently working on Many things 🤣
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and a born foodie 🤣🤣
