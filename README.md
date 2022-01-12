@@ -3,7 +3,7 @@
 ## I'm a Student and Full Stack Developer
 - 🔭 I’m currently working on Many things 🤣
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and a born foodie 🤣🤣
  
 
