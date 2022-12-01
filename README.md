@@ -1,7 +1,7 @@
  ### Hi there, I'm Manikant Kumar [devil-cyber][website] 👋
 
 ## I'm a Student and Full Stack Developer
-- 🔭 I’m currently working on Many things 🤣
+- 🔭 I’m currently working on Satelite Communication based Application 🤣
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and a born foodie 🤣🤣
@@ -17,6 +17,6 @@
  
 
 [website]: https://devil-cyber.github.io/CodingSpace/
-[instagram]:https://www.instagram.com/mani2474695/?hl=en
+[instagram]:https://www.instagram.com/__mani09/?hl=en
 [linkedin]: https://www.linkedin.com/in/manikant-kumar-550998192/
  
