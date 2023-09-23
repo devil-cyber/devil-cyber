@@ -1,6 +1,6 @@
  ### Hi there, I'm Manikant Kumar [devil-cyber][website] 👋
 
-## I'm a Student and Full Stack Developer
+## I'm a Software Engineer / Learner 
 - 🔭 I’m currently working on Satelite Communication based Application 🤣
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects
