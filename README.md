@@ -1,10 +1,12 @@
  ### Hi there, I'm Manikant Kumar [devil-cyber][website] 👋
 
 ## I'm a Software Engineer / Learner 
-- 🔭 I’m currently working on Satelite Communication based Application 🤣
+- 🔭 I’m currently working on Satellite Communication based Application 🤣
 - 🌱 I’m currently learning everything 🤣
+- I have working / freelancing experience of 2 years with some of biggest mncs & startups (samsung, cleavertap, thermelgy, microsoft etc)
+- I have worked mainly on backend, cloud, frontend and recently working on Satellite communication
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play cricket and a born foodie 🤣🤣
+- ⚡ Fun fact: I love to cook and workout
  
 
 ### Connect with me:
