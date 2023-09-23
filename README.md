@@ -3,7 +3,7 @@
 ## I'm a Student and Full Stack Developer
 - 🔭 I’m currently working on Satelite Communication based Application 🤣
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and a born foodie 🤣🤣
  
 
@@ -18,5 +18,5 @@
 
 [website]: https://devil-cyber.github.io/CodingSpace/
 [instagram]:https://www.instagram.com/__mani09/?hl=en
-[linkedin]: https://www.linkedin.com/in/manikant-kumar-550998192/
+[linkedin]: [https://www.linkedin.com/in/manikant-kumar-550998192/](https://www.linkedin.com/in/mani360/)https://www.linkedin.com/in/mani360/
  
